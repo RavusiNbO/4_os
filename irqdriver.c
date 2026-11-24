@@ -309,5 +309,5 @@ module_init(irqdriver_init);
 module_exit(irqdriver_exit);
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("OpenAI");
-MODULE_DESCRIPTION("Lab 4 variant 5: hrtimer and bottom-half comparison");
+MODULE_AUTHOR("Ravil Fakhretdinov");
+MODULE_DESCRIPTION("hrtimer and bottom-half comparison");
